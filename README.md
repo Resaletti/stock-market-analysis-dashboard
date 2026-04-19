@@ -18,10 +18,10 @@ This project explores stock market data to uncover trends, patterns, and insight
 
 ## 🔍 Key Features
 
-- Analysis of trading volume over time
-- Monthly average of Open, High, Low, Close prices
-- Month-over-month variation analysis
-- Smart Narrative (AI) insights generation
+- Analyzed total trading volume trends over time with dynamic company selection
+- Evaluated average Open, High, Low, and Close prices across monthly periods
+- Identified month-over-month variations in stock closing prices
+- Implemented Smart Narrative to automatically generate insights and highlight trends
 
 ---
 
@@ -31,6 +31,13 @@ This project explores stock market data to uncover trends, patterns, and insight
 - Short-term drop of **22.73%**
 - High volatility observed in Tesla stock
 - Peak trading period identified in early 2023
+
+---
+
+📈 Business Impact:
+- Enabled data-driven decision making by identifying peak trading periods
+- Provided comparative analysis between companies to support investment insights
+- Automated insights generation using AI-powered narratives
 
 ---
 
