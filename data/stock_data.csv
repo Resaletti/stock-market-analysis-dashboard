@@ -1,0 +1,15 @@
+stock-market-analysis-dashboard/
+│
+├── data/
+│   └── stock_data.csv
+│
+├── dashboard/
+│   └── dashboard.pbix
+│
+├── images/
+│   └── dashboard-preview.png
+│
+├── docs/
+│   └── insights.md
+│
+└── README.md
